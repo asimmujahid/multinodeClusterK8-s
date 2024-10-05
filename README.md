@@ -1,1 +1,0 @@
-# multinodeClusterK8-s
